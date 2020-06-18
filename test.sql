@@ -1,3 +1,3 @@
 whenever sqlerror continue 
 
-select "this is first script" message from dual;
+select 'this is first script' message from dual;
